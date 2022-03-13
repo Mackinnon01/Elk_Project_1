@@ -1,5 +1,6 @@
 # Elk_Project_1
 Virtual network project using Azur
+
 The files in this repository were used to configure the network depicted below.
 ![150643084-51b6df57-b0e5-4055-8f2c-e24551388653](https://user-images.githubusercontent.com/89706419/158074723-d1b1ce9b-39af-4c33-95c8-0f965172e832.jpg)
 
@@ -68,7 +69,8 @@ SSH into the control node and follow the steps below:
 
 Copy the ELK playbook file to the Jumpbox (Docker container host)
 Update the ELK file to include
-image
+![150894583-2ca26e5c-1a13-4d66-a6cb-ce73edc5838a](https://user-images.githubusercontent.com/89706419/158074884-f9f864fb-6eea-476d-9847-d3313d83420f.png)
+
 
 Run the playbook, and navigate to Kibana to check that the installation worked as expected.
 You can navigate to the Public IP address (55.12.9.15) to make sure it is working.
